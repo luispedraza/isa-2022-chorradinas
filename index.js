@@ -1,7 +1,7 @@
 
 
 const f = () => {
-    console.log("hola");
+    console.log("adios");
 }
 
 f();
